@@ -1,0 +1,67 @@
+bodu{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    border: 2px solid;
+    background-color: aquamarine;
+    position: fixed;
+    width: 1600px;
+}
+
+ul{
+    list-style: none;
+    margin-left: 300px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    background-color: rgb(220, 220, 209);
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.con-one{
+    height: 600px;
+    background-image: url(https://www.advantour.com/img/kyrgyzstan/nature/kyrgyzstan-nature1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 2px solid;
+    h1{
+        color: rgb(240, 240, 246);
+    }
+}
+.con-two{
+    height: 600px;
+    background-image: url(https://data.vb.kg/image/big/2019-01-25_14-50-57_800772.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-bottom: 2px solid;
+    h1{
+        color: aqua;
+    }
+
+}
+.con-thee{
+    height: 400px;
+    background-image: url(https://lh3.googleusercontent.com/proxy/7xMatrMFbOnkrE6eN1a5Ex2JRNb81perxr3Bf_YdX8AMfMujl15XkJ3ivUYM_w06-8VUhzTgsEfBhnd-c1zESEBP);
+    border-bottom: 2px solid;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.con-foure{
+    height: 400px;
+    background-image: url(https://st-1.akipress.org/st_gallery/99/1462599.4afd8e01a336d9d6ec6fe0c7c379c16e.jpg);
+    border-bottom: 2px solid;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}   
